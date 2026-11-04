@@ -36,3 +36,17 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+# IntelliJ
+.idea/
+*.iml
+
+# Screenshots
+screenshot/
+screenshots/
+
+# Configuration locale et credentials
+src/test/java/resources/local_config.properties
+
+# Maven
+target/
